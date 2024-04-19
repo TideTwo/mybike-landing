@@ -1,4 +1,1 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+This web development project involves creating a landing page utilizing SCSS, BEM methodology, and HTML, incorporating various image resources based on a Figma design template. The landing page aims to faithfully represent the design template's layout and visual elements, including text, images, and styling.. The use of SCSS allows for efficient styling management and code organization, while BEM methodology ensures clear and maintainable class naming conventions. Multiple image resources are integrated into the layout to enhance visual appeal and convey relevant information to users. The project focuses on accurately translating the design template into functional HTML elements and styling them appropriately to achieve the desired visual presentation.
